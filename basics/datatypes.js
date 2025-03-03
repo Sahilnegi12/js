@@ -13,5 +13,6 @@ let name="Sahil"
 // object 
 
 console.log(typeof "Sahil");
+console.log(typeof age);
 
  
